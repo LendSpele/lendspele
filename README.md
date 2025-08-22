@@ -4,6 +4,7 @@
 
 [![StoryLegends](https://github.com/LendSpele/lendspele/blob/main/logo.png)](https://www.storylegends.xyz)
 
+[![Website](https://github.com/LendSpele/lendspele/blob/main/modrinth.png)](https://modrinth.com/organization/storylegends)
 <div id="stat" align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=lendspele&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lendspele&theme=synthwave&hide_border=true" />
