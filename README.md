@@ -1,6 +1,7 @@
 <div id="header" align="center">  
   <h1>Hi, im LendSpele! 👋</h1>
   <h3>I am the owner of the server "StoryLegends" and I am working on development for the server & minecraft. I make small mods on Fabric!</h3>
+    <h3>I can speak on Russian, Ukrainian, Polish & English.</h3>
 
 [![StoryLegends](https://github.com/LendSpele/lendspele/blob/main/logo.png)](https://www.storylegends.xyz)
 
