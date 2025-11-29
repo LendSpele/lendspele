@@ -5,7 +5,7 @@
 
 [![StoryLegends](https://github.com/LendSpele/lendspele/blob/main/logo.png)](https://www.storylegends.xyz)
 
-[![Website](https://github.com/LendSpele/lendspele/blob/main/modrinth.png)](https://modrinth.com/organization/storylegends)
+[![Website](https://github.com/LendSpele/lendspele/blob/main/modrinth.png)](https://modrinth.com/user/LendSpele)
 
 <div id="contact" align="right">
   <h3>You can contact with me via Discord:</h3>
