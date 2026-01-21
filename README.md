@@ -12,7 +12,9 @@
   <h3>@lendspele_</h3>
 </div>
 
-<div id="stat" align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=lendspele&theme=synthwave&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lendspele&theme=synthwave&hide_border=true" />
-</div>
+<div id="stat" align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lendspele&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lendspele&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lendspele&theme=tokyonight)
+
